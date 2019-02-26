@@ -1,2 +1,2 @@
 # Otto
-Academic work in partial fulfillment of Master of Science
+Academic work in partial fulfillment for the degree of Master of Science in Computer Engineering
