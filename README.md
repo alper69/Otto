@@ -9,7 +9,8 @@ https://www.sciencedirect.com/science/article/pii/S0165168497001175
 Bu çalışma resmi kayıtlarda Tübitak destekli bir projenin çatısı altında görünmekle beraber A. Alper Atıcı'ya
 ilgi kurumdan veya başka yerden herhangi bir maddi/manevi destek[^1] sağlanmamıştır.
 Konuyla ilgili benden bugün sunum, eğitim, röportaj, sohbet gibi talepleri olanların ödemesi gereken ücret
-50000 (ellibin) Euro'dur, aksi takdirde iletişime geçmeyiniz.
+50000 (ellibin) Euro'dur[^2], aksi takdirde iletişime geçmeyiniz.
 
 
 [^1]: Evimde kendi bilgisayarımı kullanarak yaptım.
+[^2]: Uluslararası ortamda ve/veya ingilizce talep edilmesi durumunda ücret 250000 (ikiyüzellibin) Euro.
